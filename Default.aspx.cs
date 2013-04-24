@@ -17,7 +17,9 @@ namespace WebAppGit2
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+		var a = "a";
+		var b = "b";
+		var c = "c";
         }
     }
 }
