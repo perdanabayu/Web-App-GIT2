@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="WebAppGit2._Default" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="addbayu.aspx.cs" Inherits="WebAppGit2.addbayu" %>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
@@ -9,11 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    web app git 2
-    add from baybluesky
-    add from perdanabayu
-    add 2 from baybluesky
-    add bayu branch
+    add bayu
     </div>
     </form>
 </body>
