@@ -19,11 +19,8 @@ namespace WebAppGit2
         {
 		var bb = "bb";
 	 	var aa = "aa";
-<<<<<<< .mine
+	        var cc = "cc";
 
-=======
-
->>>>>>> .theirs
         }
     }
 }
