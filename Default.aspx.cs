@@ -19,7 +19,11 @@ namespace WebAppGit2
         {
 		var a = "a";
 		var b = "b";
+<<<<<<< HEAD
 		var c = "cbluesky";
+=======
+		var c = "cbayu";
+>>>>>>> fba1dd29ae79508d18d47f4cc6483661167e46c3
         }
     }
 }
